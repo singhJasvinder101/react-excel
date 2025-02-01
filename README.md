@@ -7,13 +7,13 @@ Excel Data Importer is a full-stack application designed to efficiently process,
 ## Table of Contents
 
 - [Features](#features)
+- [Preview](#preview)
 - [Architecture and Technology Stack](#architecture-and-technology-stack)
 - [Scalability](#scalability)
 - [Error Handling and Testing](#error-handling-and-testing)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
@@ -49,6 +49,12 @@ Excel Data Importer is a full-stack application designed to efficiently process,
   - Implements modular and reusable components for file upload, data preview, error display, and record viewing.
 
 ---
+
+## Preview
+  [screen-capture.webm](https://github.com/user-attachments/assets/b38a8d15-1288-4517-8fed-d4f6fc6d9fb0)
+  
+---
+
 
 ## Architecture and Technology Stack
 
