@@ -1,0 +1,32 @@
+{
+    "default": {
+        "columns": {
+            "Name": "name",
+            "Amount": "amount",
+            "Date": "date",
+            "Verified": "verified"
+        },
+        "validation": {
+            "Name": {
+                "required": true
+            },
+            "Amount": {
+                "required": true,
+                "numeric": true,
+                "min": 0.01
+            },
+            "Date": {
+                "required": true,
+                "date": true,
+                "currentMonth": true
+            },
+            "Verified": {
+                "required": true,
+                "allowed": [
+                    "Yes",
+                    "No"
+                ]
+            }
+        }
+    }
+}
